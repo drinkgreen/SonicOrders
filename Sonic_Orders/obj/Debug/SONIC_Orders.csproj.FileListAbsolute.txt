@@ -1,0 +1,8 @@
+E:\Repos\Holodeck\SONIC_Orders\SONIC_Orders\bin\Debug\SONIC_Orders.dll
+E:\Repos\Holodeck\SONIC_Orders\SONIC_Orders\bin\Debug\SONIC_Orders.pdb
+E:\Repos\Holodeck\SONIC_Orders\SONIC_Orders\obj\Debug\SONIC_Orders.dll
+E:\Repos\Holodeck\SONIC_Orders\SONIC_Orders\obj\Debug\SONIC_Orders.pdb
+E:\Repos\SonicOrders\SONIC_Orders\bin\Debug\SONIC_Orders.dll
+E:\Repos\SonicOrders\SONIC_Orders\bin\Debug\SONIC_Orders.pdb
+E:\Repos\SonicOrders\SONIC_Orders\obj\Debug\SONIC_Orders.dll
+E:\Repos\SonicOrders\SONIC_Orders\obj\Debug\SONIC_Orders.pdb
